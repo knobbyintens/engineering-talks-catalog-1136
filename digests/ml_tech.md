@@ -1,12 +1,12 @@
 | Talk | Project URL | Main functions |
 |---|---|---|
-| [T-035] Text Generation Inference: Serving Models for Everyone | https://github.com/huggingface/text-generation-inference | A production-grade toolkit for serving large language models at scale. |
-| [T-030] SGLang: Structured Generation at Runtime Speed | https://github.com/sgl-project/sglang | A high-performance serving framework for large language and multimodal models with structured generation. |
-| [T-021] OpenHands: An Open Platform for Software Agents | https://github.com/OpenHands/OpenHands | An open platform for AI software agents that read code, run commands and complete engineering tasks. |
-| [T-016] IO-Aware Attention: Rethinking Memory Movement in Long-Context Models | https://github.com/Dao-AILab/flash-attention | Fast and memory-efficient exact attention kernels for long-context transformers. |
-| [T-014] Test-Time Scaling: What the Reasoning Literature Actually Shows | https://github.com/srush/awesome-o1 | A bibliography and survey of the papers surrounding the o1 line of reasoning work, with slide sources and reading notes. |
-| [T-011] Gemini CLI: Bringing Multimodal Agents to the Command Line | https://github.com/google-gemini/gemini-cli | An open-source AI agent that brings Gemini models directly into the terminal. |
-| [T-009] Claude Code in Practice: Terminal-First Agentic Development | https://github.com/anthropics/claude-code | An agentic coding tool that lives in the terminal and works with a repository through natural-language commands. |
-| [T-006] Inside Codex: Building a Cloud Coding Agent | https://github.com/openai/codex | A lightweight coding agent that runs in the terminal and edits code on the user's behalf. |
-| [T-004] Qwen3-Coder: Agentic Coding at the Frontier | https://github.com/QwenLM/Qwen3-Coder | The code-oriented Qwen3 model series, packaged for agentic coding workloads. |
-| [T-001] Serving LLMs at Scale: Lessons from a Year of Production Deployments | https://github.com/vllm-project/vllm | A high-throughput and memory-efficient inference and serving engine for large language models. |
+| [T-035] Text Generation Inference: Serving Models for Everyone | https://github.com/huggingface/text-generation-inference | Large Language Model Text Generation Inference |
+| [T-030] SGLang: Structured Generation at Runtime Speed | https://github.com/sgl-project/sglang | SGLang is a high-performance serving framework for large language models and multimodal models. |
+| [T-021] OpenHands: An Open Platform for Software Agents | https://github.com/OpenHands/OpenHands | 🙌 OpenHands: AI-Driven Development |
+| [T-016] IO-Aware Attention: Rethinking Memory Movement in Long-Context Models | https://github.com/Dao-AILab/flash-attention | Fast and memory-efficient exact attention |
+| [T-014] Test-Time Scaling: What the Reasoning Literature Actually Shows | https://github.com/srush/awesome-o1 | A bibliography and survey of the papers surrounding o1 |
+| [T-011] Gemini CLI: Bringing Multimodal Agents to the Command Line | https://github.com/google-gemini/gemini-cli | An open-source AI agent that brings the power of Gemini directly into your terminal. |
+| [T-009] Claude Code in Practice: Terminal-First Agentic Development | https://github.com/anthropics/claude-code | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [T-006] Inside Codex: Building a Cloud Coding Agent | https://github.com/openai/codex | Lightweight coding agent that runs in your terminal |
+| [T-004] Qwen3-Coder: Agentic Coding at the Frontier | https://github.com/QwenLM/Qwen3-Coder | Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team. |
+| [T-001] Serving LLMs at Scale: Lessons from a Year of Production Deployments | https://github.com/vllm-project/vllm | A high-throughput and memory-efficient inference and serving engine for LLMs |
