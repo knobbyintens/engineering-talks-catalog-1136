@@ -1,0 +1,26 @@
+{
+  "id": "engineering-talks-catalog-1136",
+  "title": "Engineering Talks Catalog",
+  "description": "A curated collection of engineering talks recorded by the research digest team.",
+  "item_count": 52,
+  "topics": [
+    "ai-engineering",
+    "data-platforms",
+    "gpu-kernels",
+    "security-privacy",
+    "observability-sre",
+    "product-engineering",
+    "distributed-systems"
+  ],
+  "topic_counts": {
+    "ai-engineering": 10,
+    "data-platforms": 8,
+    "gpu-kernels": 7,
+    "security-privacy": 7,
+    "observability-sre": 7,
+    "product-engineering": 7,
+    "distributed-systems": 6
+  },
+  "ordering": "Catalog positions run from 1 (T-001) to the final entry.",
+  "note": "The item_count above is the authoritative number of entries in this collection. Catalog records live in this repository as individual issues."
+}
